@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AboutSpringboot.iml" filepath="$PROJECT_DIR$/.idea/AboutSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootMybatis/springbootMybatis.iml" filepath="$PROJECT_DIR$/springbootMybatis/springbootMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootRedis/springbootRedis.iml" filepath="$PROJECT_DIR$/springbootRedis/springbootRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootRedis1/springbootRedis1.iml" filepath="$PROJECT_DIR$/springbootRedis1/springbootRedis1.iml" />
+    </modules>
+  </component>
+</project>
