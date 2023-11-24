@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/springbootRedis/pom.xml" />
         <option value="$PROJECT_DIR$/springbootRedis1/pom.xml" />
         <option value="$PROJECT_DIR$/springbootSwagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootRabbitMQ/pom.xml" />
       </list>
     </option>
   </component>
