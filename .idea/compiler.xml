@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springbootRedis" />
+        <module name="springbootSwagger" />
         <module name="AboutSpringboot" />
         <module name="springbootMybatis" />
         <module name="springbootRedis1" />
@@ -18,6 +19,7 @@
       <module name="springbootMybatis" target="1.8" />
       <module name="springbootRedis" target="1.8" />
       <module name="springbootRedis1" target="1.8" />
+      <module name="springbootSwagger" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/springbootMybatis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/springbootRedis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/springbootRedis1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootSwagger" vcs="Git" />
   </component>
 </project>
