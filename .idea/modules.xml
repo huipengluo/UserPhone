@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AboutSpringboot.iml" filepath="$PROJECT_DIR$/.idea/AboutSpringboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootMybatis/springbootMybatis.iml" filepath="$PROJECT_DIR$/springbootMybatis/springbootMybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootRabbitMQ/springbootRabbitMQ.iml" filepath="$PROJECT_DIR$/springbootRabbitMQ/springbootRabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootRabbitMQ1/springbootRabbitMQ1.iml" filepath="$PROJECT_DIR$/springbootRabbitMQ1/springbootRabbitMQ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootRedis/springbootRedis.iml" filepath="$PROJECT_DIR$/springbootRedis/springbootRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootRedis1/springbootRedis1.iml" filepath="$PROJECT_DIR$/springbootRedis1/springbootRedis1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootSwagger/springbootSwagger.iml" filepath="$PROJECT_DIR$/springbootSwagger/springbootSwagger.iml" />

@@ -8,8 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springbootRedis" />
-        <module name="springbootRabbitMQ" />
         <module name="springbootSwagger" />
+        <module name="springbootRabbitMQ1" />
+        <module name="springbootRabbitMQ" />
         <module name="AboutSpringboot" />
         <module name="springbootMybatis" />
         <module name="springbootRedis1" />
@@ -19,6 +20,7 @@
       <module name="AboutSpringboot" target="1.5" />
       <module name="springbootMybatis" target="1.8" />
       <module name="springbootRabbitMQ" target="1.5" />
+      <module name="springbootRabbitMQ1" target="1.5" />
       <module name="springbootRedis" target="1.8" />
       <module name="springbootRedis1" target="1.8" />
       <module name="springbootSwagger" target="1.5" />
